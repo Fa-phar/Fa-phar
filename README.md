@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fa-phar
+- 👋 Hi, I’m Fafa
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Leaning basics
 - 💞️ I’m looking to collaborate on any Data Science project
